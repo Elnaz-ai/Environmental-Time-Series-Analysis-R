@@ -1,0 +1,13 @@
+Data source:
+Leamington Spa Rugby Road AURN Monitoring Station (UK-AIR)
+
+Data type:
+Air quality and meteorological monitoring data
+(NO2, NOx, PM10, PM2.5, wind speed, wind direction)
+
+Format:
+CSV
+
+Notes:
+This dataset represents long-term environmental monitoring data
+used for time-series analysis and trend assessment.
