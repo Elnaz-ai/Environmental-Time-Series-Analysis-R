@@ -3,10 +3,7 @@
 
 
 Applied analysis of environmental monitoring data using R, with a focus on
-
 time-series analysis, trend detection, seasonality, and meteorological influence.
-
-
 
 \## Project Overview
 
@@ -19,14 +16,11 @@ seasonal variability, and long-term trends using robust statistical and
 visualization techniques.
 
 
-
 While the dataset analyzed relates to air quality monitoring, the analytical
 
 approach is directly transferable to climate, hydrologic, and water-quality
 
 datasets commonly used in environmental and watershed management.
-
-
 
 \## Tools \& Packages
 
@@ -39,7 +33,6 @@ datasets commonly used in environmental and watershed management.
 \- tidyverse
 
 \- lubridate
-
 
 
 \## Methods
@@ -55,24 +48,19 @@ datasets commonly used in environmental and watershed management.
 \- Data quality and uncertainty evaluation
 
 
-
 \## Repository Structure
 
 Environmental-Time-Series-Analysis-R/
 
-├── README.md
+README.md
 
-├── Environmental\_Time\_Series\_Analysis\_R\_Elnaz\_Fathi.pdf
+Environmental\_Time\_Series\_Analysis\_R\_Elnaz\_Fathi.pdf
 
-├── scripts/
+scripts/
 
-├── figures/
+figures/
 
-└── data/
-
-
-
-
+data/
 
 \## Outputs
 
@@ -81,12 +69,3 @@ Environmental-Time-Series-Analysis-R/
 \- Reproducible R scripts
 
 \- Applied environmental analysis report (PDF)
-
-
-
-\## Notes
-
-Raw monitoring data are publicly available from environmental monitoring
-
-networks. To keep this repository lightweight, raw data files are not included.
-
